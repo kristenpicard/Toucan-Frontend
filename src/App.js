@@ -1,17 +1,9 @@
 import "./App.css";
+import Navbar from "./components/Navbar/Navbar";
 import background from "./toucan.jpg";
 
 function App() {
   return (
-    // <div className="head-text">
-    //   <div className="head-img">
-    //     <img src={background} alt="toucan" />
-    //   </div>
-    //   <div className="text-on-image">
-    //     <h1>Toucan.</h1>
-    //   </div>
-    // </div>
-
     <div
       className="bg_image"
       style={{
@@ -22,7 +14,8 @@ function App() {
         color: "#f5f5f5",
       }}
     >
-      <h1 className="text-on-image">Toucan.</h1>
+      <Navbar />
+      <h1 className="text-on-image font-base">Toucan.</h1>
     </div>
   );
 }
