@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Toucan-Frontend/static/css/main.278db9c2.chunk.css",
+    "main.js": "/Toucan-Frontend/static/js/main.3145b972.chunk.js",
+    "main.js.map": "/Toucan-Frontend/static/js/main.3145b972.chunk.js.map",
+    "runtime-main.js": "/Toucan-Frontend/static/js/runtime-main.209e2deb.js",
+    "runtime-main.js.map": "/Toucan-Frontend/static/js/runtime-main.209e2deb.js.map",
+    "static/js/2.b1ae80dc.chunk.js": "/Toucan-Frontend/static/js/2.b1ae80dc.chunk.js",
+    "static/js/2.b1ae80dc.chunk.js.map": "/Toucan-Frontend/static/js/2.b1ae80dc.chunk.js.map",
+    "static/js/3.8b7c1866.chunk.js": "/Toucan-Frontend/static/js/3.8b7c1866.chunk.js",
+    "static/js/3.8b7c1866.chunk.js.map": "/Toucan-Frontend/static/js/3.8b7c1866.chunk.js.map",
+    "index.html": "/Toucan-Frontend/index.html",
+    "static/css/main.278db9c2.chunk.css.map": "/Toucan-Frontend/static/css/main.278db9c2.chunk.css.map",
+    "static/js/2.b1ae80dc.chunk.js.LICENSE.txt": "/Toucan-Frontend/static/js/2.b1ae80dc.chunk.js.LICENSE.txt",
+    "static/media/toucan.8c9bb634.jpg": "/Toucan-Frontend/static/media/toucan.8c9bb634.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209e2deb.js",
+    "static/js/2.b1ae80dc.chunk.js",
+    "static/css/main.278db9c2.chunk.css",
+    "static/js/main.3145b972.chunk.js"
+  ]
+}
