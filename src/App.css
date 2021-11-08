@@ -1,0 +1,31 @@
+.text-on-image {
+  position: relative;
+  left: 20%;
+  top: 20%;
+  font-family: "Work Sans", sans-serif;
+  color: #fdfff2;
+  font-size: 15vw;
+}
+
+@media only screen and (max-width: 1399px) {
+  .text-on-image {
+    top: 25%;
+    font-size: 18vw;
+  }
+}
+
+@media only screen and (max-width: 1226px) {
+  .text-on-image {
+    top: 38%;
+    left: 14%;
+    font-size: 18vw;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .text-on-image {
+    top: 43%;
+    left: 15%;
+    font-size: 18vw;
+  }
+}
